@@ -1,0 +1,8 @@
+atproto
+anthropic
+numpy
+matplotlib
+# optional, stage 00b:
+google-api-python-client
+# retained for reference only (Reddit via RFR approval):
+praw
